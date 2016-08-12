@@ -1,0 +1,48 @@
+html body {
+  font-family: 'Orienta', sans-serif;
+  font-weight: 400;
+  background-color: #AAAAAA; }
+  html body .clearfix {
+    clear: both; }
+  html body h1 {
+    color: #333333;
+    text-align: center;
+    font-size: 64px;
+    margin-top: 100px; }
+  html body p {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    list-style: none; }
+    html body p a {
+      color: #333333;
+      display: inline-block;
+      background-color: #AAAAAA;
+      text-decoration: none;
+      text-align: center;
+      line-height: 100px;
+      border-radius: 10px; }
+      html body p a:hover {
+        color: #AAAAAA;
+        background-color: #333333; }
+      html body p a i {
+        vertical-align: middle;
+        width: 100px; }
+      html body p a.foursquare:hover {
+        color: #F94877; }
+      html body p a.lastfm:hover {
+        color: #d51007; }
+      html body p a.twitter:hover {
+        color: #55acee; }
+      html body p a.facebook:hover {
+        color: #3b5998; }
+      html body p a.github:hover {
+        color: #4183c4; }
+      html body p a.linkedin:hover {
+        color: #0077b5; }
+      html body p a.instagram:hover {
+        color: #3f729b; }
+      html body p a.flickr:hover {
+        color: #ff0084; }
+
+/*# sourceMappingURL=style.css.map */
