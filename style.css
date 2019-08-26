@@ -44,5 +44,7 @@ html body {
         color: #3f729b; }
       html body p a.flickr:hover {
         color: #ff0084; }
+      html body p a.slides:hover {
+        color: #e4637c; }
 
 /*# sourceMappingURL=style.css.map */
